@@ -2,7 +2,7 @@
 - 👀 I’m interested to learn programming and development
 - 🌱 I’m currently learning JAVA, C++ and Python
 - 💞️ I’m looking to collaborate on some easy Open sourse projects
-- 📫 You can add me up on LinkedIn with my name Aacim Zia and also from gmail too.
+- 📫 You can add me up on LinkedIn with my name Aacim Zia and also you can contact me from gmail too.
 
 <!---
 aacimzia/aacimzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
